@@ -1,7 +1,7 @@
-Superstore Sales Dashboard Analysis
+# Superstore Sales Dashboard Analysis
 
 
-Overview:
+## Overview:
 This project focuses on analyzing the sales data of a Superstore. I created an interactive dashboard in Power BI, which provides insights into the sales and profitability of the retail store over several years.
 
 
@@ -17,7 +17,7 @@ Provides an overview of the following key performance metrics:
 4.	Profit Growth Rate: 23.78%
 5.	Most Profitable Category: Technology
 
-Key Visuals
+### Key Visuals
 •	Sales by Region: Displays sales figures broken down by different regions (West, East, Central, South).
 •	Profit by Category: Highlights profit figures across various product categories (Technology, Office Supplies, Furniture).
 •	Profit by Customer Type: Pie chart showing profit distribution among different customer types (Home Office, Corporate, Consumer).
