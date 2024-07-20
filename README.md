@@ -18,15 +18,15 @@ Provides an overview of the following key performance metrics:
 5.	Most Profitable Category: Technology
 
 ### Key Visuals
-** •	Sales by Region: Displays sales figures broken down by different regions (West, East, Central, South).
-** •	Profit by Category: Highlights profit figures across various product categories (Technology, Office Supplies, Furniture).
-** •	Profit by Customer Type: Pie chart showing profit distribution among different customer types (Home Office, Corporate, Consumer).
-** •	Top 5 Best Selling Products: Bar chart listing the top 5 products with the highest sales.
-** •	Top 5 Most Profitable Products: Bar chart listing the top 5 products with the highest profit.
-** •	Sales by Customer Type: Doughnut chart depicting sales figures by customer type.
-** •	Total Sales Overtime: Line chart showing the trend of sales over the years from 2014 to 2017.
-** •	Worst States: Bar chart highlighting the states with the lowest profitability.
--** •	Best States: Bar chart highlighting the states with the highest profitability.
+- ** Sales by Region: Displays sales figures broken down by different regions (West, East, Central, South).
+- ** Profit by Category: Highlights profit figures across various product categories (Technology, Office Supplies, Furniture).
+- ** Profit by Customer Type: Pie chart showing profit distribution among different customer types (Home Office, Corporate, Consumer).
+- ** Top 5 Best Selling Products: Bar chart listing the top 5 products with the highest sales.
+- ** Top 5 Most Profitable Products: Bar chart listing the top 5 products with the highest profit.
+- ** Sales by Customer Type: Doughnut chart depicting sales figures by customer type.
+- ** Total Sales Overtime: Line chart showing the trend of sales over the years from 2014 to 2017.
+- ** Worst States: Bar chart highlighting the states with the lowest profitability.
+- ** Best States: Bar chart highlighting the states with the highest profitability.
 
 
 ## Insights:
