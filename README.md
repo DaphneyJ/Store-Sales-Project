@@ -9,7 +9,7 @@ Dataset:
 The dataset used for this analysis is the Superstore Dataset from Kaggle. It contains information about sales, profit, and various other attributes related to the operations of a retail superstore.
 
 
-Dashboard Summary:
+### Dashboard Summary:
 Provides an overview of the following key performance metrics:
 1.	Total Sales Revenue: $2.3M
 2.	Gross Profit Margin: $286K
@@ -18,18 +18,18 @@ Provides an overview of the following key performance metrics:
 5.	Most Profitable Category: Technology
 
 ### Key Visuals
-•	Sales by Region: Displays sales figures broken down by different regions (West, East, Central, South).
-•	Profit by Category: Highlights profit figures across various product categories (Technology, Office Supplies, Furniture).
-•	Profit by Customer Type: Pie chart showing profit distribution among different customer types (Home Office, Corporate, Consumer).
-•	Top 5 Best Selling Products: Bar chart listing the top 5 products with the highest sales.
-•	Top 5 Most Profitable Products: Bar chart listing the top 5 products with the highest profit.
-•	Sales by Customer Type: Doughnut chart depicting sales figures by customer type.
-•	Total Sales Overtime: Line chart showing the trend of sales over the years from 2014 to 2017.
-•	Worst States: Bar chart highlighting the states with the lowest profitability.
-•	Best States: Bar chart highlighting the states with the highest profitability.
+** •	Sales by Region: Displays sales figures broken down by different regions (West, East, Central, South).
+** •	Profit by Category: Highlights profit figures across various product categories (Technology, Office Supplies, Furniture).
+** •	Profit by Customer Type: Pie chart showing profit distribution among different customer types (Home Office, Corporate, Consumer).
+** •	Top 5 Best Selling Products: Bar chart listing the top 5 products with the highest sales.
+** •	Top 5 Most Profitable Products: Bar chart listing the top 5 products with the highest profit.
+** •	Sales by Customer Type: Doughnut chart depicting sales figures by customer type.
+** •	Total Sales Overtime: Line chart showing the trend of sales over the years from 2014 to 2017.
+** •	Worst States: Bar chart highlighting the states with the lowest profitability.
+-** •	Best States: Bar chart highlighting the states with the highest profitability.
 
 
-Insights:
+## Insights:
 Regional Performance:
 - The West region has the highest sales, followed by the East and Central regions. The South region has the lowest sales.
 
@@ -47,7 +47,7 @@ Geographical Insights:
 
 
 
-Reccomendations:
+## Reccomendations:
 Since Technology is the most profitable category followed by Office Supplies , I think the superstore should invest in marketing and sales efforts to further boost the sales of Technology and Office Supplies categories, as they are already highly profitable. 
 For Furniture category, despite it being the second highest in revenue, it's by far the least profitable. The company needs to cut costs in this department. They should analyze the cost and pricing for the Furniture category and find areas where expenses can be reduced without compromising quality. Evaluate the supply chain and logistics to identify any inefficiencies to reduce expenses. The company should also consider discontinuing low-margin furniture items and focusing on high-margin ones.
 
