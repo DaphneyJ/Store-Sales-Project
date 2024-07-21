@@ -68,3 +68,34 @@ By implementing these recommendations, the company can optimize its sales strate
 
 
 
+
+
+
+# PART II: Forecast
+
+In this segment of the analysis, to better understand the factors influencing sales I conducted a regression analysis. I used the regression models to forecast sales and demand. 
+
+
+### Models
+I built a full linear regression model, a reduced model, and a transformed model to predict sales.
+The transformed model, using a log transformation, showed the best performance, addressing issues with homoscedasticity and non-linearity.
+
+### Residual Analysis
+- ** Linearity and Homoscedasticity: The residuals are now more randomly scattered around the horizontal line, indicating an improvement in both linearity and homoscedasticity.
+- ** Normality: The Q-Q plot and histogram of residuals show significant improvement in normality. The residuals follow the line more closely, although there are some deviations in the tails. The histogram shows a bell-shaped distribution, indicating that the residuals are not skewed.
+- ** Outliers: There are no significant outliers, with all Cook's distance values below the threshold of 1. The influential outlier is no longer present, indicating that the transformation successfully reduced the 
+influence of outliers on the model.
+
+### Model Performance 
+Reduced model: Adj R^2 =0.3447719
+   MSE = 206300.2
+  RMSE = 454.2029
+Full model: Adj R^2 = 0.8922954
+Transformed model: Adj R^2= 0.9797957
+The transformed model explains approximately 98% of the variance in sales, significantly higher than the reduced and full models.
+
+
+## Conclusion
+The regression analysis helped me better understand what affects Superstore sales. The transformed model worked the best, fixing initial data problems and fitting the data well. This detailed analysis, along with the insights from Power BI, provides a strong basis for making strategic decisions to boost sales and identify growth opportunities for the Superstore. Using both visual analytics and statistical modeling shows the benefit of using different methods to get deeper insights and make decisions based on data.
+
+
