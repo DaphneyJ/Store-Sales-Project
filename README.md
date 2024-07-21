@@ -2,7 +2,7 @@
 
 
 ## Overview:
-This project focuses on analyzing the sales data of a Superstore. I created an interactive dashboard in Power BI, which provides insights into the sales and profitability of the retail store over several years.
+This project focuses on analyzing the sales data of a Superstore. I created an interactive dashboard in PowerBI, which provides insights into the sales and profitability of the retail store over several years. In part two I took the analysis a step further and created predictive models to better understand the factors influencing sales and to predict sales and demand for the retail store.
 
 
 Dataset:
@@ -87,12 +87,12 @@ The transformed model, using a log transformation, showed the best performance, 
 influence of outliers on the model.
 
 ### Model Performance 
-Reduced model: Adj R^2 =0.3447719
-   MSE = 206300.2
+- Reduced model: Adj R^2 =0.3447719
+  MSE = 206300.2
   RMSE = 454.2029
-Full model: Adj R^2 = 0.8922954
-Transformed model: Adj R^2= 0.9797957
-The transformed model explains approximately 98% of the variance in sales, significantly higher than the reduced and full models.
+- Full model: Adj R^2 = 0.8922954
+- Transformed model: Adj R^2= 0.9797957
+**The transformed model explains approximately 98% of the variance in sales, significantly higher than the reduced and full models.
 
 
 ## Conclusion
