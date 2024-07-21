@@ -87,12 +87,12 @@ The transformed model, using a log transformation, showed the best performance, 
 influence of outliers on the model.
 
 ### Model Performance 
-- Reduced model: Adj R^2 =0.3447719
-  MSE = 206300.2
-  RMSE = 454.2029
+- Reduced model: Adj R^2 =0.3447719 
+- Error metrics for reduced model:  MSE = 206300.2  RMSE = 454.2029
 - Full model: Adj R^2 = 0.8922954
 - Transformed model: Adj R^2= 0.9797957
-**The transformed model explains approximately 98% of the variance in sales, significantly higher than the reduced and full models.
+
+The transformed model explains approximately 98% of the variance in sales, significantly higher than the reduced and full models.
 
 
 ## Conclusion
