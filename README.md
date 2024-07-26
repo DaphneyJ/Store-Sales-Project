@@ -30,20 +30,20 @@ Provides an overview of the following key performance metrics:
 
 
 ## Insights:
-Regional Performance:
-- The West region has the highest sales, followed by the East and Central regions. The South region has the lowest sales.
+- Regional Performance:
+  The West region has the highest sales, followed by the East and Central regions. The South region has the lowest sales.
 
-Category Profitability:
-- Technology is the most profitable category, followed by Office Supplies. Furniture lags significantly behind in terms of profitability. Furniture category had the second highest revenue out of all the categories, however it was by far the least profitable. 
+- Category Profitability:
+  Technology is the most profitable category, followed by Office Supplies. Furniture lags significantly behind in terms of profitability. Furniture category had the second highest revenue out of all the categories, however it was by far the least profitable. 
 
-Customer Type Analysis:
-- Consumer customers (customers buying for personal use) contribute the most to profit, followed by Corporate and Home Office customers.
+- Customer Type Analysis:
+  Consumer customers (customers buying for personal use) contribute the most to profit, followed by Corporate and Home Office customers.
 
-Product Performance:
-- Phones are the best-selling product, and Copiers are the most profitable product.
+- Product Performance:
+  Phones are the best-selling product, and Copiers are the most profitable product.
 
-Geographical Insights:
-- California and New York are the top-performing states in terms of profit, while Texas and Ohio are among the worst-performing states. Texas produced the second most revenue, but it was the least profitable and resulted in a loss. 
+- Geographical Insights:
+  California and New York are the top-performing states in terms of profit, while Texas and Ohio are among the worst-performing states. Texas produced the second most revenue, but it was the least profitable and resulted in a loss. 
 
 
 
