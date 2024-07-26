@@ -2,11 +2,11 @@
 
 
 ## Overview:
-This project focuses on analyzing the sales data of a Superstore. I created an interactive dashboard in PowerBI, which provides insights into the sales and profitability of the retail store over several years. In part two I took the analysis a step further and created predictive models to better understand the factors influencing sales and to predict sales and demand for the retail store.
+This project focuses on analyzing the sales data of a Superstore. I created an interactive dashboard in PowerBI, which provides insights into the sales and profitability of the retail store over several years. In part two I took the analysis a step further and created predictive models to better understand the factors influencing sales and to predict future sales and demand for the retail store.
 
 
 Dataset:
-The dataset used for this analysis is the Superstore Dataset from Kaggle. It contains information about sales, profit, and various other attributes related to the operations of a retail superstore.
+The dataset used for this analysis is the Superstore Dataset from Kaggle. It contains information about sales, profit, and various other attributes related to the operations of the retail superstore.
 
 
 ### Dashboard Summary:
